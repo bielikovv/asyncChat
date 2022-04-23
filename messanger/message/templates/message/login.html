@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+        <div class="card" id="login-card">
+            <div class="card-body">
+                <h3>Вход</h3>
+                <form method="post">
+                    {% csrf_token %}
+                    {{ form.as_p }}
+                    <button type="submit" class="btn btn-dark">Войти</button>
+                </form>
+            </div>
+        </div>
+
+
+{% endblock %}

@@ -1,0 +1,79 @@
+body{
+    background-color: #d0b8a0;
+}
+
+.card{
+    padding-left: 5px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+
+
+}
+
+#card-title-room{
+    color: #8d7159 ;
+}
+
+#chat-messages{
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.navbar{
+    margin-bottom: 40px;
+    background-color: #ffffff;
+    color: #e6ddee;
+    border-bottom: #eceff1;
+}
+
+img, svg{
+    margin-bottom: 30px;
+}
+
+#rooms-enter-header{
+    color: #8d7159;
+}
+
+#rooms-enter-header{
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #8d7159;
+}
+.navbar-light .navbar-brand{
+    color: #8d7159;
+}
+
+.btn-dark{
+    background-color: #384661;
+    border-color: #384661;
+
+}
+
+.nav-link:hover{
+    color: #384661;
+}
+
+.small, small{
+    color: #384661;
+}
+
+.navbar-brand:hover{
+    color: #384661;
+}
+
+#register-card{
+    text-align: center;
+    margin-left: 490px;
+    color: #8d7159;
+    width: 500px;
+}
+#login-card{
+    color: #8d7159;
+    margin-left: 490px;
+    text-align: center;
+    width: 500px;
+}
+
