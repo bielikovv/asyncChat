@@ -80,8 +80,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'asyncChat',
-        'USER': 'root',
-        'PASSWORD': 'vitrum15',
+        'USER': 'empty',
+        'PASSWORD': 'empty',
         'HOST': 'localhost',
     }
 }
